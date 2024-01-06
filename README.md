@@ -1,1 +1,1 @@
-This is the Ecommerce Project React App or Frontend made with MERN Stack
+This is the Ecommerce Project React App or Frontend made with MERN Stack 
